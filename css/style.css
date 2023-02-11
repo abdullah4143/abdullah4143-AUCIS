@@ -1,0 +1,163 @@
+body {
+  text-align: center;
+
+}
+hr {
+  margin-left: auto;
+  margin-right:auto;
+  width:15%;
+  border-style: dotted;
+  color:#c1c9cc; 
+}
+
+.container-fluid {
+
+  padding:3% 15% 15%;
+  background-color: #e0e0e0;
+
+}
+.landingpage-h1 {
+  color: #3b4147;
+  line-height: 1.5;
+  padding-top: 2rem ;
+}
+
+.title-image
+{
+    margin-top: 3rem;
+}
+
+#title {
+  color: #e0e0e0;
+  text-align: left;
+}
+
+.features-section {
+  background-color: #e0e0e0;
+  padding: 3% 15%;
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+.club-img {
+  width:100%;
+}
+
+.president-profile {
+   border:10%;
+  }
+
+  #testimonials-team {
+    background-color: #e0e0e0;
+    text-align: center;
+    margin:3% 10%;
+    padding-top: 4em;
+  }
+  
+  .testimonial-text {
+
+    color:rgb(56, 63, 63);
+    font-size: 1.5rem;
+    line-height: 1.5;
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:5%;
+  }
+  
+
+  .testimonial-image {
+    width: 25%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+  
+
+
+.dev1 {
+  border-radius: 2rem;
+  
+
+  background-color: #e0e0e0(233, 175, 175, 0.803);
+  border-bottom: 10px; 
+}
+
+
+.media {
+  padding-top: 10% ;
+  padding-bottom:5%;
+  border-radius: 2rem;
+}
+
+.media-1 {
+  border-radius: 2rem;
+  margin-top: 3rem;
+
+}
+
+.media-section {
+  margin-top:10%;
+}
+
+.management-section {
+ 
+  padding-top: 10% ;
+  padding-bottom:5%;
+  border-radius: 2rem;
+
+  border-radius: 20px;
+
+}
+
+.management-1 {
+  border-radius: 2rem;
+  margin-top: 3rem;
+  padding-bottom:2rem;
+
+}
+
+.adventure-section {
+ 
+  padding-top: 10% ;
+  padding-bottom:5%;
+  border-radius: 2rem;
+
+  border-radius: 20px;
+
+}
+
+.adventure-1 {
+  border-radius: 2rem;
+  margin-top: 3rem;
+  padding-bottom:2rem;
+
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+
+}
+
+.club-name {
+  font-weight:900;
+  font-optical-sizing:auto ;
+  font-size:300%;
+}
+
+#footer {
+  line-height: 2;
+  background-color: #8f9faf;
+
+}
+
+.foot-icon {
+  padding-left: 1rem;
+  padding-right:1rem;
+  padding-bottom:1rem;
+}
+.club-img-whatsapp {
+width:100%;}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  width: 100%;
+}
